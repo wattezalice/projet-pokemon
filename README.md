@@ -1,3 +1,9 @@
-# projetpokemon
+# Projet Pokémon
 
-Modif Benoit
+##Membres : 
+* Wattez Alice
+* Chaussoy Benoît
+* Moren Kévin
+
+qui fait quoi ?
+
